@@ -1,5 +1,5 @@
 // JavaScript Document
-var WINDOW_WIDTH=document;
+var WINDOW_WIDTH=1200;
 var WINDOW_HEIGHT=768;
 var RADIUS=8;
 var MARGIN_TOP = 60;
